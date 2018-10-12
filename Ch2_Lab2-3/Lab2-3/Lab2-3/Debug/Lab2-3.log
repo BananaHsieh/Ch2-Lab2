@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  f1.c
+  f2.c
+  f3.c
+  f4.c
+  f5.c
+  正在產生程式碼...
+c:\users\user\desktop\c_code\ch2_lab2-3\source\f5.c(38): warning C4716: 'Ming_5': 必須傳回值
+c:\users\user\desktop\c_code\ch2_lab2-3\source\f4.c(23): warning C4716: 'Ming_4': 必須傳回值
+c:\users\user\desktop\c_code\ch2_lab2-3\source\f3.c(22): warning C4716: 'Ming_3': 必須傳回值
+c:\users\user\desktop\c_code\ch2_lab2-3\source\f2.c(18): warning C4716: 'Ming_2': 必須傳回值
+c:\users\user\desktop\c_code\ch2_lab2-3\source\f1.c(18): warning C4716: 'Ming_1': 必須傳回值
+  Lab2-3.vcxproj -> C:\Users\User\Desktop\c_code\Ch2_Lab2-3\Lab2-3\Lab2-3\..\..\temp\debug\Lab2-3.exe
